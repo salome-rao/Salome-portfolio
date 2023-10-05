@@ -11,7 +11,7 @@
                 },
                 {
                     "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "title": "C++"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -19,19 +19,29 @@
                 },
                 {
                     "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "title": "Html"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "CSS"
+                },
+                {
+                    "icon": "images/skills/mysql.png",
+                    "title": "Mongodb"
                 }
+
+
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
                     "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "title": "Bootstrap"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -40,6 +50,10 @@
                 {
                     "icon": "images/skills/nodejs.png",
                     "title": "Nodejs"
+                },
+                {
+                    "icon": "images/skills/nodejs.png",
+                    "title": "Expressjs"
                 }
             ]
         },
@@ -56,7 +70,7 @@
                 },
                 {
                     "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "title": "Figma/Canva"
                 }
             ]
     }
