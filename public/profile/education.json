@@ -1,10 +1,10 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": " Sep 2020 - Sep 2024",
+            "cardTitle": "B.Tech, Computer Science & Engineering",
+            "cardSubtitle":"Vellore Institute of Technology, AP",
+            "cardDetailedText": "CGPA - 8.7",
             "icon" : {
                 "src": "images/education/lorem-ipsum.png"
             }

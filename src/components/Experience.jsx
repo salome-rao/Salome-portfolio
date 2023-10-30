@@ -12,7 +12,7 @@ import '../css/experience.css';
 
 const styles = {
   ulStyle: {
-    listStylePosition: 'outside',
+    listStyle: 'square',
     paddingLeft: 20,
   },
   subtitleContainerStyle: {
@@ -24,6 +24,7 @@ const styles = {
   },
   inlineChild: {
     display: 'inline-block',
+    marginTop: 10,
   },
   itemStyle: {
     marginBottom: 10,
@@ -73,7 +74,6 @@ function Experience(props) {
                         </h4>
                         {item.workType && (
                         <h5 style={styles.inlineChild}>
-                    &nbsp;·
                           {' '}
                           {item.workType}
                         </h5>

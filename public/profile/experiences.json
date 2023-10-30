@@ -1,33 +1,31 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Bachelors of Technology",
+            "subtitle": "Vellore Institute of Technology",
+            "workType": "Computer Science and Engineering",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+               "Score - 87%"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "2020 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Intermediate",
+            "subtitle": "Atomic Energy Central School No.3",
+            "workType": "PCM-Computer Science",
             "workDescription": [
-                "Worked on abc."
+                "Score - 92.6%"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "2018 – 2020"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "High- School",
+            "subtitle": "Atomic Energy Central School No.1",
+            "workType": "PCMB",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Score - 91.2%"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "2018"
         }
     ]
 }
